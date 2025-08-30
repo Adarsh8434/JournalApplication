@@ -1,4 +1,4 @@
-## **✍️ JournalApplication **
+## **✍️ JournalApplication**
 
 A Spring Boot backend application to write, save, and manage your daily journal entries 📝.
 Built with Java + Spring Boot, it provides clean REST APIs for CRUD operations.

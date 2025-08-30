@@ -28,7 +28,7 @@ You can create, read, update, and delete journal entries — like your personal 
 
 🌱 Spring Boot
 
-🗄️ H2 Database (in-memory, demo)
+🗄️ MongoDB 
 
 📦 Maven
 
@@ -42,7 +42,6 @@ JournalApplication/
 │   │   └── service/          # Business logic
 │   └── main/resources/
 │       ├── application.properties
-│       └── data.sql (optional)
 ├── pom.xml
 
 ⚡ Getting Started
@@ -93,26 +92,19 @@ Response
   "date": "2025-08-30"
 }
 
-🔮 Future Enhancements
-
-🗄 Connect with MySQL / MongoDB
-
-🔑 Add authentication with Spring Security
-
-🌐 Deploy on AWS / Docker
-
-📤 Export journals as PDF / Word
 
 🤝 Contributing
 
-Fork the repo
+- Fork the repo
 
-Create a branch (feature-name)
+- Create a branch (feature-name)
 
-Commit your changes
+- Commit your changes
 
-Open a Pull Request
+- Open a Pull Request
+  
+🧑‍💻 Author
 
-📜 License
-
-This project is open-source – free to use & modify.
+- Adarsh Kumar Choubey
+- 🔗[ LinkedIn](https://www.linkedin.com/in/adarshku/)
+- 📧 rohitadarsh02@gmail.com

@@ -87,7 +87,7 @@ Response
   "date": "2025-08-30"
 }
 
-
+---
 🤝 Contributing
 
 - Fork the repo

@@ -8,31 +8,24 @@ Built with Java + Spring Boot, it provides clean REST APIs for CRUD operations.
 JournalApplication helps you maintain a digital diary through backend APIs.
 You can create, read, update, and delete journal entries — like your personal notebook, but powered by Spring Boot!
 
-✨ Features
+## **Features** ✨
 
-➕ Create daily journal entries
+- ➕ Create daily journal entries
+- 📜 View all saved entries
+- 🔍 Fetch a journal entry by ID
+- ✏️ Update existing entries
+- ❌ Delete entries
+- 🌐 RESTful API design (ready for frontend/mobile integration)
 
-📜 View all saved entries
+---
 
-🔍 Fetch a journal entry by ID
+## **Tech Stack** 🛠
 
-✏️ Update existing entries
+- ☕ Java 8+
+- 🌱 Spring Boot
+- 🗄️ MongoDB
+- 📦 Maven
 
-❌ Delete entries
-
-🌐 RESTful API design (ready for frontend/mobile integration)
-
-
-
-🛠 Tech Stack
-
-☕ Java 8+
-
-🌱 Spring Boot
-
-🗄️ MongoDB
-
-📦 Maven
 
 📂 Project Structure
 JournalApplication/

@@ -53,8 +53,8 @@ Maven
 
 Run Locally
 # Clone repo
-git clone https://github.com/Adarsh8434/JournalApplication.git
-cd JournalApplication
+- git clone https://github.com/Adarsh8434/JournalApplication.git
+- cd JournalApplication
 
 # Build
 mvn clean install
